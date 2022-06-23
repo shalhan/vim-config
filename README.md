@@ -4,6 +4,14 @@
 
 It contains my personal configuration and plugins
 
+### Getting started
+
+Download file vimrc from this repository. Move it to your Users directory by using this command
+
+```
+mv vimrc ~/.vimrc
+```
+
 #### Installed plugin:
 
 1. Plug
